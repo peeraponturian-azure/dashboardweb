@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard\\Dashboard\\Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard.csproj",
       "projectName": "Dashboard",
-      "projectPath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard\\Dashboard\\Dashboard.csproj",
+      "projectPath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard.csproj",
       "packagesPath": "C:\\Users\\peera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard\\Dashboard\\obj\\",
+      "outputPath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peera\\AppData\\Roaming\\NuGet\\NuGet.Config",
