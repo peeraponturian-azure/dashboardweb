@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kb8hc7zYoQhX+GwYQX84ZhDdnqYUFxybfA7esYnZOwxXLrhvAgDHbazorP5HNr5jHlTZaBHxNpQ7CH72HgG3zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard\\Dashboard\\Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peera\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
