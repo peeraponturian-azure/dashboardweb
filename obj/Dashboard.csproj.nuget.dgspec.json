@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard.csproj": {}
+    "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\Dashboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard.csproj": {
+    "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\Dashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard.csproj",
+        "projectUniqueName": "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\Dashboard.csproj",
         "projectName": "Dashboard",
-        "projectPath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\Dashboard.csproj",
-        "packagesPath": "C:\\Users\\peera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peera\\Desktop\\New folder\\dashboardweb\\obj\\",
+        "projectPath": "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\Dashboard.csproj",
+        "packagesPath": "C:\\Users\\chana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\peera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -65,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
