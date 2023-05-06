@@ -29,3 +29,34 @@ C:\Users\peera\Desktop\New folder\dashboardweb\obj\Debug\net6.0\refint\Dashboard
 C:\Users\peera\Desktop\New folder\dashboardweb\obj\Debug\net6.0\Dashboard.pdb
 C:\Users\peera\Desktop\New folder\dashboardweb\obj\Debug\net6.0\Dashboard.genruntimeconfig.cache
 C:\Users\peera\Desktop\New folder\dashboardweb\obj\Debug\net6.0\ref\Dashboard.dll
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\appsettings.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\Dashboard.staticwebassets.runtime.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\Dashboard.exe
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\Dashboard.deps.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\Dashboard.runtimeconfig.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\Dashboard.dll
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\bin\Debug\net6.0\Dashboard.pdb
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.csproj.AssemblyReference.cache
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.AssemblyInfoInputs.cache
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.AssemblyInfo.cs
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.RazorAssemblyInfo.cache
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.RazorAssemblyInfo.cs
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets\msbuild.Dashboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets\msbuild.build.Dashboard.props
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dashboard.props
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dashboard.props
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\scopedcss\bundle\Dashboard.styles.css
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\scopedcss\projectbundle\Dashboard.bundle.scp.css
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.dll
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\refint\Dashboard.dll
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.pdb
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\Dashboard.genruntimeconfig.cache
+C:\Users\chana\OneDrive\เดสก์ท็อป\test\dashboardweb\obj\Debug\net6.0\ref\Dashboard.dll
