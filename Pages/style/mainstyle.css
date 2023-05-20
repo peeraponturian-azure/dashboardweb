@@ -1,0 +1,34 @@
+﻿<link rel="preconnect" href="https://fonts.googleapis.com" >
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin >
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet" >
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 260px;
+    background: #3366CC;
+}
+    .sidebar .logo-details{
+        height: 60px;
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+    }
+.sidebar .logo-details i{
+    font-size: 30px;
+    color: #fff;
+    }
+.sidebar .logo-details .logo_name {
+    font-size: 10px;
+    color: #fff;
+    font-weight: 600;
+
+}

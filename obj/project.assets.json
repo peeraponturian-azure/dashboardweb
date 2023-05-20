@@ -100,24 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chana\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\be the one\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\be the one\\Desktop\\gitมาย\\dashboardweb\\Dashboard.csproj",
       "projectName": "Dashboard",
-      "projectPath": "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\Dashboard.csproj",
-      "packagesPath": "C:\\Users\\chana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chana\\OneDrive\\เดสก์ท็อป\\test\\dashboardweb\\obj\\",
+      "projectPath": "C:\\Users\\be the one\\Desktop\\gitมาย\\dashboardweb\\Dashboard.csproj",
+      "packagesPath": "C:\\Users\\be the one\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\be the one\\Desktop\\gitมาย\\dashboardweb\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\chana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\be the one\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -125,7 +120,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -168,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
